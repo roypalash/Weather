@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "10ABD2D7-9F8C-461C-BEE4-165229097605"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C8E7CF81-61CF-495A-A770-011A228C560D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApplicationTests/WeatherApplicationTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "fetchWeatherData(for:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C8E7CF81-61CF-495A-A770-011A228C560D - 3b4097c6f8386a7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApplicationTests.WeatherApplicationTests.MockWeatherService.fetchWeatherData(for: __C.CLLocationCoordinate2D, completion: (Swift.Optional&lt;WeatherApplication.WeatherData&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WeatherApplicationTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/palashroy/Documents/WeatherApplication/WeatherApplicationTests/WeatherApplicationTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "C8E7CF81-61CF-495A-A770-011A228C560D - 3b4097c6f8386a7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApplicationTests.WeatherApplicationTests.MockWeatherService.fetchWeatherData(for: __C.CLLocationCoordinate2D, completion: (Swift.Optional&lt;WeatherApplication.WeatherData&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WeatherApplicationTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/palashroy/Documents/WeatherApplication/WeatherApplicationTests/WeatherApplicationTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4EC14B6B-B6C2-4395-9246-90413B019F85"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApplication/ViewModel/WeatherViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "fetchWeather()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4EC14B6B-B6C2-4395-9246-90413B019F85 - 26c4cc8d7a686e38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApplication.WeatherViewModel.fetchWeather() -&gt; ()"
+                  moduleName = "WeatherApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/palashroy/Documents/WeatherApplication/WeatherApplication/ViewModel/WeatherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "4EC14B6B-B6C2-4395-9246-90413B019F85 - 26c4cc8d7a686d72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApplication.WeatherViewModel.fetchWeather() -&gt; ()"
+                  moduleName = "WeatherApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/palashroy/Documents/WeatherApplication/WeatherApplication/ViewModel/WeatherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6E4573F6-5792-462D-ABA6-DB825D5E8143"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApplication/ViewModel/WeatherViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "fetchWetherForCity(name:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6E4573F6-5792-462D-ABA6-DB825D5E8143 - 3e338ce4b857d990"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApplication.WeatherViewModel.fetchWetherForCity(name: Swift.String) -&gt; ()"
+                  moduleName = "WeatherApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/palashroy/Documents/WeatherApplication/WeatherApplication/ViewModel/WeatherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "6E4573F6-5792-462D-ABA6-DB825D5E8143 - dcda0d67013d2123"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;WeatherApplication.WeatherData&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in WeatherApplication.WeatherViewModel.fetchWetherForCity(name: Swift.String) -&gt; ()"
+                  moduleName = "WeatherApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/palashroy/Documents/WeatherApplication/WeatherApplication/ViewModel/WeatherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "6E4573F6-5792-462D-ABA6-DB825D5E8143 - 3e338ce4b857db6c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApplication.WeatherViewModel.fetchWetherForCity(name: Swift.String) -&gt; ()"
+                  moduleName = "WeatherApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/palashroy/Documents/WeatherApplication/WeatherApplication/ViewModel/WeatherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "6E4573F6-5792-462D-ABA6-DB825D5E8143 - dcda0d67013d23df"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;WeatherApplication.WeatherData&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in WeatherApplication.WeatherViewModel.fetchWetherForCity(name: Swift.String) -&gt; ()"
+                  moduleName = "WeatherApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/palashroy/Documents/WeatherApplication/WeatherApplication/ViewModel/WeatherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "6E4573F6-5792-462D-ABA6-DB825D5E8143 - dcda0d67013d23df"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;WeatherApplication.WeatherData&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in WeatherApplication.WeatherViewModel.fetchWetherForCity(name: Swift.String) -&gt; ()"
+                  moduleName = "WeatherApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/palashroy/Documents/WeatherApplication/WeatherApplication/ViewModel/WeatherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D110E60-BFC2-42DB-A8E2-33CDAA56327D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApplication/ViewModel/WeatherViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "fetchWetherForCity(name:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4D110E60-BFC2-42DB-A8E2-33CDAA56327D - dcda0d67013d2161"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;WeatherApplication.WeatherData&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in WeatherApplication.WeatherViewModel.fetchWetherForCity(name: Swift.String) -&gt; ()"
+                  moduleName = "WeatherApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/palashroy/Documents/WeatherApplication/WeatherApplication/ViewModel/WeatherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "4D110E60-BFC2-42DB-A8E2-33CDAA56327D - dcda0d67013d231d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;WeatherApplication.WeatherData&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in WeatherApplication.WeatherViewModel.fetchWetherForCity(name: Swift.String) -&gt; ()"
+                  moduleName = "WeatherApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/palashroy/Documents/WeatherApplication/WeatherApplication/ViewModel/WeatherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "4D110E60-BFC2-42DB-A8E2-33CDAA56327D - dcda0d67013d231d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;WeatherApplication.WeatherData&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in WeatherApplication.WeatherViewModel.fetchWetherForCity(name: Swift.String) -&gt; ()"
+                  moduleName = "WeatherApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/palashroy/Documents/WeatherApplication/WeatherApplication/ViewModel/WeatherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "180">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7BC7B7AE-A6B9-47D7-B2D2-4BA203C26B6A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApplicationTests/WeatherApplicationTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "fetchWeather(for:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7BC7B7AE-A6B9-47D7-B2D2-4BA203C26B6A - acfe6301e8297f91"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApplicationTests.WeatherApplicationTests.MockWeatherService.fetchWeather(for: Swift.String, completion: (Swift.Optional&lt;WeatherApplication.WeatherData&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WeatherApplicationTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/palashroy/Documents/WeatherApplication/WeatherApplicationTests/WeatherApplicationTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "7BC7B7AE-A6B9-47D7-B2D2-4BA203C26B6A - acfe6301e8297f91"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApplicationTests.WeatherApplicationTests.MockWeatherService.fetchWeather(for: Swift.String, completion: (Swift.Optional&lt;WeatherApplication.WeatherData&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WeatherApplicationTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/palashroy/Documents/WeatherApplication/WeatherApplicationTests/WeatherApplicationTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "171E8B2C-90ED-4692-9DA4-35D984D5526D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApplicationTests/WeatherApplicationTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "fetchImage(name:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "171E8B2C-90ED-4692-9DA4-35D984D5526D - d221b2df56faaaca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApplicationTests.WeatherApplicationTests.MockWeatherService.fetchImage(name: Swift.String, completion: (Swift.Optional&lt;__C.UIImage&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WeatherApplicationTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/palashroy/Documents/WeatherApplication/WeatherApplicationTests/WeatherApplicationTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "171E8B2C-90ED-4692-9DA4-35D984D5526D - d221b2df56faaaca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApplicationTests.WeatherApplicationTests.MockWeatherService.fetchImage(name: Swift.String, completion: (Swift.Optional&lt;__C.UIImage&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "WeatherApplicationTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/palashroy/Documents/WeatherApplication/WeatherApplicationTests/WeatherApplicationTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A2D5B73E-B548-4BC2-8B0C-E90F6F968C19"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApplicationTests/WeatherApplicationTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "testFetchWeather()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A2D5B73E-B548-4BC2-8B0C-E90F6F968C19 - 36b8236c62d39bca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApplicationTests.WeatherApplicationTests.testFetchWeather() -&gt; ()"
+                  moduleName = "WeatherApplicationTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/palashroy/Documents/WeatherApplication/WeatherApplicationTests/WeatherApplicationTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "480">
+               </Location>
+               <Location
+                  uuid = "A2D5B73E-B548-4BC2-8B0C-E90F6F968C19 - 36b8236c62d39bca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApplicationTests.WeatherApplicationTests.testFetchWeather() -&gt; ()"
+                  moduleName = "WeatherApplicationTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/palashroy/Documents/WeatherApplication/WeatherApplicationTests/WeatherApplicationTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "364">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "846540EC-7B74-429F-9834-8EE273720182"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApplicationTests/WeatherApplicationTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "readJSONFile(forName:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "846540EC-7B74-429F-9834-8EE273720182 - c06a05424befe310"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApplicationTests.WeatherApplicationTests.MockWeatherService.readJSONFile(forName: Swift.String) -&gt; Swift.Optional&lt;WeatherApplication.WeatherData&gt;"
+                  moduleName = "WeatherApplicationTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/palashroy/Documents/WeatherApplication/WeatherApplicationTests/WeatherApplicationTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "600">
+               </Location>
+               <Location
+                  uuid = "846540EC-7B74-429F-9834-8EE273720182 - c06a05424befe310"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApplicationTests.WeatherApplicationTests.MockWeatherService.readJSONFile(forName: Swift.String) -&gt; Swift.Optional&lt;WeatherApplication.WeatherData&gt;"
+                  moduleName = "WeatherApplicationTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/palashroy/Documents/WeatherApplication/WeatherApplicationTests/WeatherApplicationTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "816">
+               </Location>
+               <Location
+                  uuid = "846540EC-7B74-429F-9834-8EE273720182 - c06a05424befe310"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApplicationTests.WeatherApplicationTests.MockWeatherService.readJSONFile(forName: Swift.String) -&gt; Swift.Optional&lt;WeatherApplication.WeatherData&gt;"
+                  moduleName = "WeatherApplicationTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/palashroy/Documents/WeatherApplication/WeatherApplicationTests/WeatherApplicationTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "846540EC-7B74-429F-9834-8EE273720182 - c06a05424befe310"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApplicationTests.WeatherApplicationTests.MockWeatherService.readJSONFile(forName: Swift.String) -&gt; Swift.Optional&lt;WeatherApplication.WeatherData&gt;"
+                  moduleName = "WeatherApplicationTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/palashroy/Documents/WeatherApplication/WeatherApplicationTests/WeatherApplicationTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "452">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1D524DA7-C94A-4AE1-BDB8-7DFC6BB8C5A5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherApplication/ViewModel/WeatherViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "fetchImage()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1D524DA7-C94A-4AE1-BDB8-7DFC6BB8C5A5 - 8d76db1394f45b9d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApplication.WeatherViewModel.fetchImage() -&gt; ()"
+                  moduleName = "WeatherApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/palashroy/Documents/WeatherApplication/WeatherApplication/ViewModel/WeatherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "1D524DA7-C94A-4AE1-BDB8-7DFC6BB8C5A5 - 8d76db1394f45b9d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherApplication.WeatherViewModel.fetchImage() -&gt; ()"
+                  moduleName = "WeatherApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/palashroy/Documents/WeatherApplication/WeatherApplication/ViewModel/WeatherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "500">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
